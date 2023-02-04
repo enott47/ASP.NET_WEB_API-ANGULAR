@@ -1,0 +1,3 @@
+﻿Add-Migration "InitialCreate"
+Update-Database
+https://stackoverflow.com/questions/38202039/json-properties-now-lower-case-on-swap-from-asp-net-core-1-0-0-rc2-final-to-1-0

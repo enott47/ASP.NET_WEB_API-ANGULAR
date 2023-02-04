@@ -1,0 +1,9 @@
+ng g c payment-details --skip-tests -s
+
+ng g c payment-details/payment-detail --skip-tests -s
+
+ng g c payment-details/payment-detail-list --skip-tests -s
+
+ng g s shared/payment-detail --skip-tests
+
+ng g cl shared/payment-detail --skip-tests --type=model
